@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1",
+    "title": "Samsung Refrigerator 253L",
+    "titleGu": "સેમસંગ રેફ્રિજરેટર 253L",
+    "category": "Electronics",
+    "description": "Double door, 3 star rating, working perfectly. Shifting sale.",
+    "descriptionGu": "ડબલ ડોર, 3 સ્ટાર રેટિંગ, સંપૂર્ણ રીતે કામ કરે છે. શિફ્ટિંગ સેલ.",
+    "price": 12000,
+    "location": "Dholka",
+    "sellerName": "Ketan",
+    "phone": "+919812345001",
+    "whatsapp": "919812345001",
+    "image": "https://images.unsplash.com/photo-1571175432290-ef71313ad75a?w=600&auto=format&fit=crop&q=80",
+    "approved": true
+  },
+  {
+    "id": "2",
+    "title": "Wooden 4-seater Dining Table",
+    "titleGu": "લાકડાનું 4-સીટર ડાઇનિંગ ટેબલ",
+    "category": "Furniture",
+    "description": "Solid teak wood, 3 years old, in good condition. Buyer must pick up.",
+    "descriptionGu": "સાગની લાકડી, 3 વર્ષ જૂનું, સારી સ્થિતિમાં. ખરીદદારે ઉપાડી લેવું.",
+    "price": 8500,
+    "location": "Dholka",
+    "sellerName": "Pooja",
+    "phone": "+919812345002",
+    "whatsapp": "919812345002",
+    "image": "https://images.unsplash.com/photo-1615066390971-03e4e1c36ddf?w=600&auto=format&fit=crop&q=80",
+    "approved": true
+  },
+  {
+    "id": "3",
+    "title": "Honda Activa 5G 2019 - Good Mileage",
+    "titleGu": "Honda Activa 5G 2019 - સારી માઇલેજ",
+    "category": "Vehicles",
+    "description": "Single owner, 28000 km, well maintained, all papers clear.",
+    "descriptionGu": "સિંગલ ઓનર, 28000 કિમી, સારી જાળવણી, બધા કાગળો સ્પષ્ટ.",
+    "price": 45000,
+    "location": "Dholka",
+    "sellerName": "Mahesh",
+    "phone": "+919812345003",
+    "whatsapp": "919812345003",
+    "image": "https://images.unsplash.com/photo-1558981806-ec527fa84c39?w=600&auto=format&fit=crop&q=80",
+    "approved": true
+  },
+  {
+    "id": "4",
+    "title": "iPhone 13 - Excellent Condition",
+    "titleGu": "iPhone 13 - ઉત્તમ સ્થિતિ",
+    "category": "Phones",
+    "description": "1 year old, no scratches, all accessories included with bill.",
+    "descriptionGu": "1 વર્ષ જૂનો, કોઈ સ્ક્રેચ નહીં, બધી એક્સેસરીઝ બિલ સાથે.",
+    "price": 38000,
+    "location": "Dholka",
+    "sellerName": "Rohan",
+    "phone": "+919812345004",
+    "whatsapp": "919812345004",
+    "image": "https://images.unsplash.com/photo-1510557880182-3d4d3cba35a5?w=600&auto=format&fit=crop&q=80",
+    "approved": true
+  }
+]

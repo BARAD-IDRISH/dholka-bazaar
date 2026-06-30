@@ -1,0 +1,25 @@
+{
+  "business": [
+    "Electronics",
+    "Food & Restaurants",
+    "Healthcare",
+    "Education",
+    "Real Estate",
+    "Vehicle Sales",
+    "Clothing & Fashion",
+    "Grocery",
+    "Services"
+  ],
+  "news": [
+    "General",
+    "Weather",
+    "Events"
+  ],
+  "classifieds": [
+    "Electronics",
+    "Furniture",
+    "Vehicles",
+    "Phones",
+    "Others"
+  ]
+}

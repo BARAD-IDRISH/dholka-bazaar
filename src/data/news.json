@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "title": "New bypass road project approved for Dholka",
+    "titleGu": "ધોળકા માટે નવા બાયપાસ રોડ પ્રોજેક્ટને મંજૂરી",
+    "category": "General",
+    "content": "The new 12-km bypass will connect Bavla highway to the Bhavnagar route, expected to reduce traffic congestion in main bazaar areas. Construction begins next quarter. The project is estimated to cost ₹120 crore and will be completed in 18 months. Local businesses and residents have welcomed this development as it will significantly ease traffic in the city center.",
+    "contentGu": "નવો 12-કિમી બાયપાસ બાવળા હાઇવેને ભાવનગર રૂટ સાથે જોડશે, જે મુખ્ય બજાર વિસ્તારોમાં ટ્રાફિક ભીડ ઘટાડવાની અપેક્ષા છે. બાંધકામ આગામી ત્રિમાસિકમાં શરૂ થશે.",
+    "image": "https://images.unsplash.com/photo-1544984243-ec57ea16fe25?w=600&auto=format&fit=crop&q=80",
+    "author": "Dholka Bazaar",
+    "date": "2026-06-30",
+    "published": true
+  },
+  {
+    "id": "2",
+    "title": "Annual Lok Mela to be held at Dholka grounds",
+    "titleGu": "ધોળકા મેદાનમાં વાર્ષિક લોક મેળો યોજાશે",
+    "category": "Events",
+    "content": "The famous Dholka Lok Mela returns this December with food stalls, rides, and cultural performances. The event will feature over 100 stalls from local artisans and food vendors. Entry is free for all. Cultural programs including folk dance and music will be performed every evening.",
+    "contentGu": "પ્રખ્યાત ધોળકા લોક મેળો આ ડિસેમ્બરમાં ખાણીપીણી સ્ટોલ, રાઈડ્સ અને સાંસ્કૃતિક કાર્યક્રમો સાથે પાછો ફરે છે.",
+    "image": "https://images.unsplash.com/photo-1533105079780-92b9be482077?w=600&auto=format&fit=crop&q=80",
+    "author": "Dholka Bazaar",
+    "date": "2026-06-30",
+    "published": true
+  },
+  {
+    "id": "3",
+    "title": "Heavy rains expected in Dholka this week",
+    "titleGu": "ધોળકામાં આ અઠવાડિયે ભારે વરસાદની આગાહી",
+    "category": "Weather",
+    "content": "The meteorological department has issued a warning for heavy rainfall in the Dholka region this week. Citizens are advised to stay indoors during heavy downpours. Low-lying areas may experience waterlogging. Emergency helpline numbers have been activated.",
+    "contentGu": "હવામાન વિભાગે આ અઠવાડિયે ધોળકા વિસ્તારમાં ભારે વરસાદની ચેતવણી આપી છે.",
+    "image": "https://images.unsplash.com/photo-1534274988757-a28bf1a57c17?w=600&auto=format&fit=crop&q=80",
+    "author": "Dholka Bazaar",
+    "date": "2026-06-29",
+    "published": true
+  },
+  {
+    "id": "4",
+    "title": "New government school inaugurated in Dholka",
+    "titleGu": "ધોળકામાં નવી સરકારી શાળાનું ઉદ્ઘાટન",
+    "category": "General",
+    "content": "A new government primary school has been inaugurated near the bus stand area. The school has modern facilities including computer lab and playground. It can accommodate up to 500 students.",
+    "contentGu": "બસ સ્ટેન્ડ વિસ્તાર પાસે એક નવી સરકારી પ્રાથમિક શાળાનું ઉદ્ઘાટન કરવામાં આવ્યું છે.",
+    "image": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=600&auto=format&fit=crop&q=80",
+    "author": "Dholka Bazaar",
+    "date": "2026-06-28",
+    "published": true
+  }
+]
