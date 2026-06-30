@@ -12,7 +12,8 @@ export default function Footer() {
     <footer className={styles.footer}>
       <div className={styles.grid}>
         <div>
-          <div className={styles.logoCircle}>ધ</div>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/dblogo.jpg" alt="Dholka Bazaar Logo" className={styles.logoImage} />
           <h3 style={{ fontSize: '20px', fontWeight: 'bold' }}>Dholka Bazaar</h3>
           <p className={styles.brandDesc}>
             {language === 'en'
