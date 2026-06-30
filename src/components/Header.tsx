@@ -22,7 +22,8 @@ export default function Header() {
     <header className={styles.header}>
       <div className={styles.container}>
         <Link href="/" className={styles.logoArea}>
-          <div className={styles.logoCircle}>ધ</div>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img src="/dblogo.jpg" alt="Dholka Bazaar Logo" className={styles.logoImage} />
           <div className={styles.logoText}>
             <span className={styles.title}>Dholka Bazaar</span>
             <span className={styles.subtitle}>{language === 'en' ? 'Your local marketplace & news hub' : 'તમારું સ્થાનિક માર્કેટપ્લેસ અને ન્યૂઝ હબ'}</span>
